@@ -3,6 +3,6 @@ JS Bpilerplate
 
 - `npm install`
 
-- `npm run webpack`
+- `npm run build`
 
 - `npm run serve`
